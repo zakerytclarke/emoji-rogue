@@ -1,0 +1,12 @@
+body{
+  width:100vw;
+  height:100vh;
+  overflow: hidden;
+  background-color: #dfdfdf;
+  font-size:150%;
+  color:#333;
+}
+
+#gameBoard{
+  font-family:"Lucida Console", Monaco, monospace;
+}
